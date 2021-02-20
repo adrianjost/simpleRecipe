@@ -1,0 +1,15 @@
+html, body{
+  width: 100%;
+  min-height: 100vh;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 18px;
+}
+
+main {
+  padding: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 70ch
+}
